@@ -1,5 +1,3 @@
-Here is a rewritten version designed to sound natural, polished, and fitting for a developer or analyst with **2–3 years of experience**. It strips away overly promotional phrases (like "extensive preprocessing" or "DAX-powered") and replaces them with standard industry terminology, clean structural highlights, and clear operational details.
-
 ---
 
 # Financial Model & Performance Analytics Dashboard (Power BI)
